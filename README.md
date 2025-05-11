@@ -62,5 +62,5 @@ This repository contains Python code for classifying musical instruments from au
     These scores indicate a strong and promising model with well-tuned hyperparameters.
     The confusion matrix confirms high accuracy in predicting most instrument classes.  
 
-    
+    ![Confusion_Matrix](Assets/Confusion-matrix.png)
 
