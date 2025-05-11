@@ -40,6 +40,7 @@ This repository contains Python code for classifying musical instruments from au
 
     Run this to train and evaluate the CNN model: Music Instrument Classification_CNN.py
     You’ll see plots for training vs validation accuracy/loss w.r.t Epoch, and a confusion matrix at the end. Note: Uding evaluation we tested upto 30 Epochs and found that there is no sigificant improvement in accuracy after 15 Epoch. Hence the plot is shown only upto 15 poch.
+![Accuracy and Loss vs Epoch](Assets/Accuracy-Loss.png)
 
 # 📊 Evaluation Metrics
 
@@ -62,5 +63,5 @@ This repository contains Python code for classifying musical instruments from au
     These scores indicate a strong and promising model with well-tuned hyperparameters.
     The confusion matrix confirms high accuracy in predicting most instrument classes.  
 
-    ![Confusion_Matrix](Assets/Confusion-matrix.png)
+![Confusion_Matrix](Assets/Confusion-matrix.png)
 
