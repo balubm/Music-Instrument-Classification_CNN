@@ -173,6 +173,6 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 .DS_Store
-.wav
+*.wav
 *.json
 music_dataset/
