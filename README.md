@@ -19,7 +19,7 @@ This repository contains Python code for classifying musical instruments from au
     Confusion Matrix visualization
 
 # 🎼 Dataset
-
+    Data was downloaded from this Kaggle dataset: https://www.kaggle.com/datasets/abdulvahap/music-instrunment-sounds-for-classification
     The music_dataset folder contains subfolders named after instrument classes.
 
     Each subfolder will have .wav files.
